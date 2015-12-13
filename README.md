@@ -1,5 +1,8 @@
 [![Build Status](https://travis-ci.org/Wolfchase/RainBot.svg?branch=master)](https://travis-ci.org/Wolfchase/RainBot)
 
+# This Codebase is Going Stale!
+That said, rainbot.js is looking for a new maintainer! If for some reason you'd like to take over this project, email me! My email is listed on my profile page. The reason I am no longer maintaining this repo is because I am reenvisioning the bot in golang. However, I have a lot of time invested in this project and I'd hate to see it go. 
+
 ## Blog For Development Updates!
 http://rainbot-irc.blogspot.com/
 
