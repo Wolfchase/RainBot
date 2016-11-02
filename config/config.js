@@ -14,7 +14,7 @@ module.exports = {
    *    userName - (Optional) Your username
    */
 
-  nick: process.env.IRC_NICK || 'SnowBot',
+  nick: process.env.IRC_NICK || 'Ogniar',
   realName: process.env.IRC_REAL || 'RainBotDev',
   userName: process.env.IRC_USER || 'RainBot',
 
@@ -69,14 +69,14 @@ module.exports = {
    *            from the backbone IRC library
    */
 
-  debug: false,
+  debug: true,
 
   /*
    *    The prefix to denote commands, for example if set to ';', then ';say'
    *    would be a command.
    */
 
-   commandPrefix: ';',
+   commandPrefix: '.',
 
   /*
    *    The command symbol is used to directly specify to the bot that
