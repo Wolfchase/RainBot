@@ -1,6 +1,4 @@
-# VoidBot 
+# RainBot (JS)
 
-This is the old source for RainBot in JavaScript. Currently being reworked into a Discord bot!
-
-_Stand By_
+This is the old source for RainBot in JavaScript. Not being worked on anymore, but here for _historical reasons_.
 
